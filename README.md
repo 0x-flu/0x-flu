@@ -2,7 +2,6 @@
 ### 👀 I’m interested in C, C++, Rust and Python
 ### 🌱 I’m currently learning C, C++, Rust and Python :D
 ### 📫 How to reach me: *0xfluen@gmail.com*
-### 😄 Pronouns: he/him
 ### ⚡ Fun fact: I'm a QA in my dayjob. :^)
 
 <!---
